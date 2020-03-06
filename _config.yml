@@ -23,13 +23,21 @@ footer-links:
   flickr:
   github: WedgeSparda
   instagram: wedgesparda
-  linkedin:
+  linkedin: rpastor
   pinterest:
   rss: rss
   twitter: Roberto_Pastor
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  steam: WedgeSparda
+  psn:
+  xboxlive:
+  gog:
+  uplay:
+  origin:
+  nintendo:
+  twitch:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
